@@ -5,7 +5,9 @@ an overcast sky. Very dark grey backgrounds, an almost-white accent, and
 deliberately desaturated ANSI colours so terminal output stays readable
 without breaking the mood.
 
-![Black Sand](preview.png)
+![Black Sand desktop](preview_desktop.png)
+
+![Black Sand in use](preview.png)
 
 ## Install
 
@@ -47,10 +49,12 @@ the cold grey-blue cast of the photo.
 ## Contents
 
 - `colors.toml` — the palette; Omarchy templates it out to Hyprland, the shell, terminals and more
-- `icons.theme` — `Yaru-dark`, the neutral grey set
+- `icons.theme` — `Yaru-dark`
 - `shell.lock.toml` — lock screen text and border colours
 - `unlock.png` — the Omarchy wordmark in the accent colour
 - `backgrounds/` — the wallpaper
+- `preview_desktop.png` — the bare desktop
+- `preview.png` — the theme in use; also what the theme switcher shows
 
 No `neovim.lua` or `vscode.json`: those pin a named upstream colorscheme
 plugin rather than reading `colors.toml`, and no published scheme matches this
