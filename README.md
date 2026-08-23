@@ -52,7 +52,7 @@ the cold grey-blue cast of the photo.
 - `icons.theme` — `Yaru-dark`
 - `shell.lock.toml` — lock screen text and border colours
 - `unlock.png` — the Omarchy wordmark in the accent colour
-- `backgrounds/` — the wallpaper
+- `backgrounds/` — the wallpapers: the beach the palette was sampled from, and a close-up of the sand itself
 - `preview_desktop.png` — the bare desktop
 - `preview.png` — the theme in use; also what the theme switcher shows
 
